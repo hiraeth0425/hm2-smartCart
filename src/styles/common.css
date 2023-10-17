@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+li {
+  list-style: none;
+}
+.van-nav-bar .van-nav-bar__arrow {
+  color: #333;
+}
